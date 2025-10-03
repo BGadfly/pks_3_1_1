@@ -9,3 +9,8 @@
 
 Скриншот HelloFlutter
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/39048ed3-714a-442d-8596-f5fe7e21be50" />
+
+Операционная система: Win 11 Home
+Терминал: PowerShell
+
+Проблемы и решения: Win 11 Home не поддерживает гипервизор, поэтому используется внешнее устройство и браузер.
