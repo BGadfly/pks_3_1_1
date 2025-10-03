@@ -7,3 +7,5 @@
 Сделать скриншот списка устройств после flutter devices
 <img width="2028" height="705" alt="image" src="https://github.com/user-attachments/assets/769e56b7-0576-488e-af3e-cdf269e0e524" />
 
+Скриншот HelloFlutter
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/39048ed3-714a-442d-8596-f5fe7e21be50" />
